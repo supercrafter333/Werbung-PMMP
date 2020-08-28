@@ -1,7 +1,7 @@
 name: Werbung-PMMP
-version: 1.0.0
-api: [3.0.0, 4.0.0]
-main: supercrafter333\w\werbung
+version: 1.0.1
+api: 3.0.0
+main: supercrafter333\werbung\werbung
 author: supercrafter333
 
 commands:

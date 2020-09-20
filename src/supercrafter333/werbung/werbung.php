@@ -13,6 +13,15 @@ use pocketmine\Player;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\Config;
 
+/**********************************************************************
+ * Copyright© by Christoph Regensburger 2020©
+ *
+ * This Code is Copyrighted by supercrafter333 (Christoph Regensburger)!
+ * Dieser Code darf nicht kopiert, verkauft, verliehen oder als sein
+ * eigen ausgegeben werden!
+ * This Plugin is Licensed with GNU General Public Licens!
+***********************************************************************/
+
 class werbung extends PluginBase implements Listener
 {
 
@@ -40,9 +49,9 @@ class werbung extends PluginBase implements Listener
                         $last = new DateTime($cd->get($s->getName()));
                         if (new DateTime("now") > $last) {
                             $this->getServer()->broadcastMessage(" ");
-                            $this->getServer()->broadcastMessage("§l├------------------------§b»§cWERBUNG§b«------------------------┤");
+                            $this->getServer()->broadcastMessage(str_replace(["{player}"], [$s->getName()], $config->get("werbung-text")));
                             $this->getServer()->broadcastMessage(implode(" ", $args));
-                            $this->getServer()->broadcastMessage("§l├------------------------§b»§cWERBUNG§b«------------------------┤");
+                            $this->getServer()->broadcastMessage($config->get("werbung-text"));
                             $this->getServer()->broadcastMessage(" ");
                             $date = new DateTime('+'.$config->get("cooldown-minutes").' minutes');
                             $cd->set($s->getName(), $date->format("Y-m-d H:i:s"));
@@ -52,22 +61,22 @@ class werbung extends PluginBase implements Listener
                                 return true;
                             }
                         } else {
-                            $s->sendMessage("§l§cDu musst warten, bis du diesen Befehl noch mal verwenden kannst!");
+                            $s->sendMessage(str_replace(["{player}"], [$s->getName()], $config->get("wait-message")));
                             $s->getLevel()->addSound(new AnvilFallSound($s));
                             return true;
                         }
                     } else {
-                        $s->sendMessage("Du bist dazu nicht berechtigt!");
+                        $s->sendMessage(str_replace(["{player}"], [$s->getName()], $config->get("noperm-message")));
                         $s->getLevel()->addSound(new AnvilFallSound($s));
                         return true;
                     }
                 } else {
-                    $s->sendMessage("Du musst einen Text eingeben!");
+                    $s->sendMessage(str_replace(["{player}"], [$s->getName()], $config->get("no-arguments-message")));
                     $s->getLevel()->addSound(new AnvilFallSound($s));
                     return true;
                 }
             }
-            $s->sendMessage("Nur In-Game verfügbar!");
+            $s->sendMessage($config->get("only-In-Game-message"));
             return true;
         }
         return true;

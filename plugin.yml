@@ -1,12 +1,12 @@
-name: Werbung-PMMP
-version: 1.0.1
+name: Werbung-PMMP-PMMP
+version: 1.1.0
 api: 3.0.0
 main: supercrafter333\werbung\werbung
 author: supercrafter333
 
 commands:
   werbung:
-    description: §r§aMache Werbung für deinen Shop!
+    description: §r§aMache Werbung-PMMP für deinen Shop!
     permission: werbung.cmd
     usage: "/werbung <text>"
 

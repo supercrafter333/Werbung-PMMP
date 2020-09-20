@@ -1,1 +1,11 @@
 cooldown-minutes: "10"
+
+#messages
+#use {player} to get the playername
+werbung-text: "§l├------------------------§b»§cWERBUNG§b«------------------------┤"
+wait-message: "§l§cDu musst warten, bis du diesen Befehl noch mal verwenden kannst!"
+noperm-message: "§cDu bist dazu nicht berechtigt!"
+no-arguments-message: "§cDu musst einen Text eingeben!"
+only-In-Game-message: "Nur In-Game verfügbar!"
+
+#by supercrafter333

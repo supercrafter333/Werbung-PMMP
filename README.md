@@ -1,5 +1,5 @@
 
-# Werbung-PMMP
+# Werbung-PMMP   [![](https://poggit.pmmp.io/shield.state/Werbung-PMMP)](https://poggit.pmmp.io/p/Werbung-PMMP)
 #### [ENG]
 This is a plugin with which you can advertise or your players can advertise your shop, plot or other things on your server. Have fun with this plugin. This plugin was developed by supercrafter333.
 
@@ -15,6 +15,3 @@ Dies ist ein Plugin mit dem sie Werbung machen können bzw. ihre Spieler auf ihr
 
 **Commands+Permissions:**
 `/werbung <text>  |  werbung.cmd`
-
-
-Poggit: [![](https://poggit.pmmp.io/shield.state/Werbung-PMMP)](https://poggit.pmmp.io/p/Werbung-PMMP)

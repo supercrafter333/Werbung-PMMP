@@ -10,3 +10,6 @@ Poggit: <a href="https://poggit.pmmp.io/p/Werbung-PMMP">Werbung-PMMP</a>
 
 **Commands+Permissions:**
 `/werbung <text>  |  werbung.cmd`
+
+
+**German config.yml with german messages - Deutsche config.yml mit deutschen Narichten:** <a href="http://www.mediafire.com/file/4b29g4iabytmxxy/file">German-Config</a>

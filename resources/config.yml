@@ -3,9 +3,9 @@ cooldown-minutes: "10"
 #messages
 #use {player} to get the playername
 werbung-text: "§l├------------------------§b»§cWERBUNG§b«------------------------┤"
-wait-message: "§l§cDu musst warten, bis du diesen Befehl noch mal verwenden kannst!"
-noperm-message: "§cDu bist dazu nicht berechtigt!"
-no-arguments-message: "§cDu musst einen Text eingeben!"
-only-In-Game-message: "Nur In-Game verfügbar!"
+wait-message: "§l§cYou must wait! This command is on cooldown!"
+noperm-message: "§cYou are not allowed to do that!"
+no-arguments-message: "§cYou have forget the text!"
+only-In-Game-message: "Only In-Game!"
 
 #by supercrafter333

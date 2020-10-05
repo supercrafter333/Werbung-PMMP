@@ -13,15 +13,6 @@ use pocketmine\Player;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\Config;
 
-/**********************************************************************
- * Copyright© by Christoph Regensburger 2020©
- *
- * This Code is Copyrighted by supercrafter333 (Christoph Regensburger)!
- * Dieser Code darf nicht kopiert, verkauft, verliehen oder als sein
- * eigen ausgegeben werden!
- * This Plugin is Licensed with GNU General Public Licens!
-***********************************************************************/
-
 class werbung extends PluginBase implements Listener
 {
 
@@ -30,7 +21,7 @@ class werbung extends PluginBase implements Listener
         $this->getConfig();
         @mkdir($this->getDataFolder());
         $config = new Config($this->getDataFolder()."config.yml", Config::YAML);
-        $config->save();
+        $this->saveResource("config.yml");
     }
 
     public function onCommand(CommandSender $s, Command $cmd, string $label, array $args): bool

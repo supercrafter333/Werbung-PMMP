@@ -16,4 +16,4 @@ This Plugin is licensed by [GNU General Public License](/LICENSE)!
 
 
 ### Pictures
-<img src="https://raw.githubusercontent.com/supercrafter333/Werbung-PMMP/master/werbung-pmmp-pic.png"></img> <br>
+<img src="https://raw.githubt.com/supercrafter333/Werbung-PMMP/master/werbung-pmmp-pic.png"></img> <br>

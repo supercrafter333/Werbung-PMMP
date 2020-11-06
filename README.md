@@ -9,7 +9,7 @@ This Plugin is licensed by [GNU General Public License](/LICENSE)!
 
 
 **Commands+Permissions:**
-`/advertising <text>  |  advertising.cmd`
+`/advertising <text>  |  werbung-pmmp.adversiting.cmd`
 
 
 **German config.yml with german messages - Deutsche config.yml mit deutschen Narichten:** <a href="http://www.mediafire.com/file/4b29g4iabytmxxy/file">German-Config</a>

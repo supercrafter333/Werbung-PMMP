@@ -30,7 +30,7 @@ class werbung extends PluginBase implements Listener
         if ($cmd->getName() == "werbung") {
             if ($s instanceof Player) {
                 if (count($args) >= 1) {
-                    if ($s->hasPermission("werbung.cmd")) {
+                    if ($s->hasPermission("werbung-pmmp.adversiting.cmd")) {
                         $this->getConfig();
                         $cd = new Config($this->getDataFolder() . "cooldown.yml", Config::YAML);
                         if (!$cd->exists($s->getName())) {

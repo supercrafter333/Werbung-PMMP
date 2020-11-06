@@ -1,5 +1,5 @@
 name: Werbung-PMMP
-version: 1.3.0
+version: 1.4.0
 api: 3.0.0
 main: supercrafter333\werbung\werbung
 author: supercrafter333
@@ -7,10 +7,10 @@ author: supercrafter333
 commands:
   werbung:
     description: §r§aPromote your shop!
-    permission: advertising.cmd
+    permission: werbung-pmmp.adversiting.cmd
     usage: "/advertising <text>"
     aliases: ["advertising"]
 
 permissions:
-  advertising.cmd:
+  werbung-pmmp.adversiting.cmd:
     default: true

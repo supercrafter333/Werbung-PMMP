@@ -13,7 +13,7 @@ This Plugin is licensed by [Apache License 2.0](/LICENSE)!
 
 
 ### TODOs:
- -[ ] A player must pay money when he publish an ad
+ - A player must pay money when he publish an ad
  
  ### WIP (work-in-progress)
  There's not work in progress! xD

@@ -12,6 +12,13 @@ This Plugin is licensed by [Apache License 2.0](/LICENSE)!
 `/advertising <text>  |  werbung-pmmp.adversiting.cmd`
 
 
+### TODOs:
+ -[ ] A player must pay money when he publish an ad
+ 
+ ### WIP (work-in-progress)
+ There's not work in progress! xD
+
+
 **German config.yml with german messages - Deutsche config.yml mit deutschen Narichten:** <a href="http://www.mediafire.com/file/4b29g4iabytmxxy/file">German-Config</a>
 
 

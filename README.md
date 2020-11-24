@@ -5,7 +5,7 @@ This is a plugin with which you can advertise or your players can advertise your
 Poggit: <a href="https://poggit.pmmp.io/p/Werbung-PMMP">Werbung-PMMP</a>
 
 
-This Plugin is licensed by [GNU General Public License](/LICENSE)!
+This Plugin is licensed by [Apache License 2.0](/LICENSE)!
 
 
 **Commands+Permissions:**

@@ -1,0 +1,467 @@
+Index: .idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_2.xml
+===================================================================
+--- .idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_2.xml	(revision 75d88f6983615417062247f0a92cf8bd51277eeb)
++++ .idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_2.xml	(revision 75d88f6983615417062247f0a92cf8bd51277eeb)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_rebase_[Default_Changelist]2" date="1605722280999" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]2/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before rebase [Default Changelist]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/shelved.patch
+===================================================================
+--- .idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/shelved.patch	(revision 75d88f6983615417062247f0a92cf8bd51277eeb)
++++ .idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/shelved.patch	(revision 75d88f6983615417062247f0a92cf8bd51277eeb)
+@@ -1,48 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"BRANCH:origin/master\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </select>\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8180f4a1-e0a9-4c84-9973-0daad8bb000f\" name=\"Default Changelist\" comment=\"added couple things xD\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <list id=\"4b4fba92-1691-47f5-972e-454b5e94d3c7\" name=\"Revert &quot;added couple things&quot;\" comment=\"Revert &quot;added couple things&quot;\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\r\n      <list>\r\n        <option value=\"supercrafter333 &lt;53967726+supercrafter333@users.noreply.github.com&gt;\" />\r\n      </list>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GithubDefaultAccount\">\r\n    <option name=\"defaultAccountId\" value=\"2e508f06-5925-44cd-9ed0-902efc58cd33\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1kQXlpAeTgXIk1xWnxJokd4axeO\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration>C:\\Users\\crwgd\\AppData\\Roaming\\Subversion</configuration>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8180f4a1-e0a9-4c84-9973-0daad8bb000f\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1605633943610</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1605633943610</updated>\r\n      <workItem from=\"1605633944921\" duration=\"66000\" />\r\n      <workItem from=\"1605635592656\" duration=\"230000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"added couple things\">\r\n      <created>1605634961995</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605634961995</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"added couple things xD\">\r\n      <created>1605635445456</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605635445456</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"äh\">\r\n      <created>1605635649286</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605635649286</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"origin/master\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <confirmMoveToFailedCommit value=\"2\" />\r\n    <MESSAGE value=\"added couple things\" />\r\n    <MESSAGE value=\"added couple things xD\" />\r\n    <MESSAGE value=\"äh\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"äh\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"474\" y=\"236\" key=\"#Notifications\" timestamp=\"1605635812683\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"474\" y=\"236\" key=\"#Notifications/0.0.1536.824@0.0.1536.824\" timestamp=\"1605635812683\" />\r\n    <state x=\"363\" y=\"0\" key=\"CommitChangelistDialog2\" timestamp=\"1605634903316\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"363\" y=\"0\" key=\"CommitChangelistDialog2/0.0.1536.824@0.0.1536.824\" timestamp=\"1605634903316\" />\r\n    <state x=\"147\" y=\"65\" key=\"MergeDialog\" timestamp=\"1605634924445\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"147\" y=\"65\" key=\"MergeDialog/0.0.1536.824@0.0.1536.824\" timestamp=\"1605634924445\" />\r\n    <state x=\"577\" y=\"133\" key=\"RollbackChangesDialog\" timestamp=\"1605635416908\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"577\" y=\"133\" key=\"RollbackChangesDialog/0.0.1536.824@0.0.1536.824\" timestamp=\"1605635416908\" />\r\n    <state x=\"277\" y=\"57\" key=\"SettingsEditor\" timestamp=\"1605635821989\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"277\" y=\"57\" key=\"SettingsEditor/0.0.1536.824@0.0.1536.824\" timestamp=\"1605635821989\" />\r\n    <state x=\"361\" y=\"145\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1605635671275\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"361\" y=\"145\" key=\"Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824\" timestamp=\"1605635671275\" />\r\n    <state x=\"640\" y=\"257\" key=\"cloudConfig.SelfSettingsDialog\" timestamp=\"1605635048003\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"640\" y=\"257\" key=\"cloudConfig.SelfSettingsDialog/0.0.1536.824@0.0.1536.824\" timestamp=\"1605635048003\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+---- .idea/workspace.xml	(revision cdba1bfd2185fe86ea37b79bb7de2e89a912d20c)
+-+++ .idea/workspace.xml	(date 1605722236796)
+-@@ -73,7 +73,8 @@
+-       <option name="presentableId" value="Default" />
+-       <updated>1605633943610</updated>
+-       <workItem from="1605633944921" duration="66000" />
+--      <workItem from="1605635592656" duration="230000" />
+-+      <workItem from="1605635592656" duration="282000" />
+-+      <workItem from="1605695453785" duration="537000" />
+-     </task>
+-     <task id="LOCAL-00001" summary="added couple things">
+-       <created>1605634961995</created>
+-@@ -96,7 +97,14 @@
+-       <option name="project" value="LOCAL" />
+-       <updated>1605635649286</updated>
+-     </task>
+--    <option name="localTasksCounter" value="4" />
+-+    <task id="LOCAL-00004" summary="äh">
+-+      <created>1605635834057</created>
+-+      <option name="number" value="00004" />
+-+      <option name="presentableId" value="LOCAL-00004" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1605635834057</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="5" />
+-     <servers />
+-   </component>
+-   <component name="TypeScriptGeneratedFilesManager">
+-@@ -154,10 +162,10 @@
+-       <screen x="0" y="0" width="1536" height="824" />
+-     </state>
+-     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605635821989" />
+--    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605635671275">
+-+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605635841243">
+-       <screen x="0" y="0" width="1536" height="824" />
+-     </state>
+--    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605635671275" />
+-+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605635841243" />
+-     <state x="640" y="257" key="cloudConfig.SelfSettingsDialog" timestamp="1605635048003">
+-       <screen x="0" y="0" width="1536" height="824" />
+-     </state>
+Index: .idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_1.xml
+===================================================================
+--- .idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_1.xml	(revision 75d88f6983615417062247f0a92cf8bd51277eeb)
++++ .idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_1.xml	(revision 75d88f6983615417062247f0a92cf8bd51277eeb)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_rebase_[Default_Changelist]1" date="1605722267977" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before rebase [Default Changelist]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch
+===================================================================
+--- .idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch	(revision 75d88f6983615417062247f0a92cf8bd51277eeb)
++++ .idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch	(revision 75d88f6983615417062247f0a92cf8bd51277eeb)
+@@ -1,48 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"BRANCH:origin/master\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </select>\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8180f4a1-e0a9-4c84-9973-0daad8bb000f\" name=\"Default Changelist\" comment=\"added couple things xD\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <list id=\"4b4fba92-1691-47f5-972e-454b5e94d3c7\" name=\"Revert &quot;added couple things&quot;\" comment=\"Revert &quot;added couple things&quot;\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\r\n      <list>\r\n        <option value=\"supercrafter333 &lt;53967726+supercrafter333@users.noreply.github.com&gt;\" />\r\n      </list>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GithubDefaultAccount\">\r\n    <option name=\"defaultAccountId\" value=\"2e508f06-5925-44cd-9ed0-902efc58cd33\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1kQXlpAeTgXIk1xWnxJokd4axeO\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration>C:\\Users\\crwgd\\AppData\\Roaming\\Subversion</configuration>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8180f4a1-e0a9-4c84-9973-0daad8bb000f\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1605633943610</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1605633943610</updated>\r\n      <workItem from=\"1605633944921\" duration=\"66000\" />\r\n      <workItem from=\"1605635592656\" duration=\"230000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"added couple things\">\r\n      <created>1605634961995</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605634961995</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"added couple things xD\">\r\n      <created>1605635445456</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605635445456</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"äh\">\r\n      <created>1605635649286</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605635649286</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"origin/master\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <confirmMoveToFailedCommit value=\"2\" />\r\n    <MESSAGE value=\"added couple things\" />\r\n    <MESSAGE value=\"added couple things xD\" />\r\n    <MESSAGE value=\"äh\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"äh\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"474\" y=\"236\" key=\"#Notifications\" timestamp=\"1605635812683\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"474\" y=\"236\" key=\"#Notifications/0.0.1536.824@0.0.1536.824\" timestamp=\"1605635812683\" />\r\n    <state x=\"363\" y=\"0\" key=\"CommitChangelistDialog2\" timestamp=\"1605634903316\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"363\" y=\"0\" key=\"CommitChangelistDialog2/0.0.1536.824@0.0.1536.824\" timestamp=\"1605634903316\" />\r\n    <state x=\"147\" y=\"65\" key=\"MergeDialog\" timestamp=\"1605634924445\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"147\" y=\"65\" key=\"MergeDialog/0.0.1536.824@0.0.1536.824\" timestamp=\"1605634924445\" />\r\n    <state x=\"577\" y=\"133\" key=\"RollbackChangesDialog\" timestamp=\"1605635416908\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"577\" y=\"133\" key=\"RollbackChangesDialog/0.0.1536.824@0.0.1536.824\" timestamp=\"1605635416908\" />\r\n    <state x=\"277\" y=\"57\" key=\"SettingsEditor\" timestamp=\"1605635821989\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"277\" y=\"57\" key=\"SettingsEditor/0.0.1536.824@0.0.1536.824\" timestamp=\"1605635821989\" />\r\n    <state x=\"361\" y=\"145\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1605635671275\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"361\" y=\"145\" key=\"Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824\" timestamp=\"1605635671275\" />\r\n    <state x=\"640\" y=\"257\" key=\"cloudConfig.SelfSettingsDialog\" timestamp=\"1605635048003\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"640\" y=\"257\" key=\"cloudConfig.SelfSettingsDialog/0.0.1536.824@0.0.1536.824\" timestamp=\"1605635048003\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+---- .idea/workspace.xml	(revision cdba1bfd2185fe86ea37b79bb7de2e89a912d20c)
+-+++ .idea/workspace.xml	(date 1605695994056)
+-@@ -73,7 +73,8 @@
+-       <option name="presentableId" value="Default" />
+-       <updated>1605633943610</updated>
+-       <workItem from="1605633944921" duration="66000" />
+--      <workItem from="1605635592656" duration="230000" />
+-+      <workItem from="1605635592656" duration="282000" />
+-+      <workItem from="1605695453785" duration="537000" />
+-     </task>
+-     <task id="LOCAL-00001" summary="added couple things">
+-       <created>1605634961995</created>
+-@@ -96,7 +97,14 @@
+-       <option name="project" value="LOCAL" />
+-       <updated>1605635649286</updated>
+-     </task>
+--    <option name="localTasksCounter" value="4" />
+-+    <task id="LOCAL-00004" summary="äh">
+-+      <created>1605635834057</created>
+-+      <option name="number" value="00004" />
+-+      <option name="presentableId" value="LOCAL-00004" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1605635834057</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="5" />
+-     <servers />
+-   </component>
+-   <component name="TypeScriptGeneratedFilesManager">
+-@@ -154,10 +162,10 @@
+-       <screen x="0" y="0" width="1536" height="824" />
+-     </state>
+-     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605635821989" />
+--    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605635671275">
+-+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605635841243">
+-       <screen x="0" y="0" width="1536" height="824" />
+-     </state>
+--    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605635671275" />
+-+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605635841243" />
+-     <state x="640" y="257" key="cloudConfig.SelfSettingsDialog" timestamp="1605635048003">
+-       <screen x="0" y="0" width="1536" height="824" />
+-     </state>
+Index: .idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]2/shelved.patch
+===================================================================
+--- .idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]2/shelved.patch	(revision 75d88f6983615417062247f0a92cf8bd51277eeb)
++++ .idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]2/shelved.patch	(revision 75d88f6983615417062247f0a92cf8bd51277eeb)
+@@ -1,48 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"BRANCH:origin/master\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </select>\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8180f4a1-e0a9-4c84-9973-0daad8bb000f\" name=\"Default Changelist\" comment=\"added couple things xD\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <list id=\"4b4fba92-1691-47f5-972e-454b5e94d3c7\" name=\"Revert &quot;added couple things&quot;\" comment=\"Revert &quot;added couple things&quot;\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\r\n      <list>\r\n        <option value=\"supercrafter333 &lt;53967726+supercrafter333@users.noreply.github.com&gt;\" />\r\n      </list>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GithubDefaultAccount\">\r\n    <option name=\"defaultAccountId\" value=\"2e508f06-5925-44cd-9ed0-902efc58cd33\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1kQXlpAeTgXIk1xWnxJokd4axeO\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration>C:\\Users\\crwgd\\AppData\\Roaming\\Subversion</configuration>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8180f4a1-e0a9-4c84-9973-0daad8bb000f\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1605633943610</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1605633943610</updated>\r\n      <workItem from=\"1605633944921\" duration=\"66000\" />\r\n      <workItem from=\"1605635592656\" duration=\"230000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"added couple things\">\r\n      <created>1605634961995</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605634961995</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"added couple things xD\">\r\n      <created>1605635445456</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605635445456</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"äh\">\r\n      <created>1605635649286</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605635649286</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"origin/master\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <confirmMoveToFailedCommit value=\"2\" />\r\n    <MESSAGE value=\"added couple things\" />\r\n    <MESSAGE value=\"added couple things xD\" />\r\n    <MESSAGE value=\"äh\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"äh\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"474\" y=\"236\" key=\"#Notifications\" timestamp=\"1605635812683\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"474\" y=\"236\" key=\"#Notifications/0.0.1536.824@0.0.1536.824\" timestamp=\"1605635812683\" />\r\n    <state x=\"363\" y=\"0\" key=\"CommitChangelistDialog2\" timestamp=\"1605634903316\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"363\" y=\"0\" key=\"CommitChangelistDialog2/0.0.1536.824@0.0.1536.824\" timestamp=\"1605634903316\" />\r\n    <state x=\"147\" y=\"65\" key=\"MergeDialog\" timestamp=\"1605634924445\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"147\" y=\"65\" key=\"MergeDialog/0.0.1536.824@0.0.1536.824\" timestamp=\"1605634924445\" />\r\n    <state x=\"577\" y=\"133\" key=\"RollbackChangesDialog\" timestamp=\"1605635416908\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"577\" y=\"133\" key=\"RollbackChangesDialog/0.0.1536.824@0.0.1536.824\" timestamp=\"1605635416908\" />\r\n    <state x=\"277\" y=\"57\" key=\"SettingsEditor\" timestamp=\"1605635821989\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"277\" y=\"57\" key=\"SettingsEditor/0.0.1536.824@0.0.1536.824\" timestamp=\"1605635821989\" />\r\n    <state x=\"361\" y=\"145\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1605635671275\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"361\" y=\"145\" key=\"Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824\" timestamp=\"1605635671275\" />\r\n    <state x=\"640\" y=\"257\" key=\"cloudConfig.SelfSettingsDialog\" timestamp=\"1605635048003\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"640\" y=\"257\" key=\"cloudConfig.SelfSettingsDialog/0.0.1536.824@0.0.1536.824\" timestamp=\"1605635048003\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+---- .idea/workspace.xml	(revision cdba1bfd2185fe86ea37b79bb7de2e89a912d20c)
+-+++ .idea/workspace.xml	(date 1605722267971)
+-@@ -73,7 +73,8 @@
+-       <option name="presentableId" value="Default" />
+-       <updated>1605633943610</updated>
+-       <workItem from="1605633944921" duration="66000" />
+--      <workItem from="1605635592656" duration="230000" />
+-+      <workItem from="1605635592656" duration="282000" />
+-+      <workItem from="1605695453785" duration="537000" />
+-     </task>
+-     <task id="LOCAL-00001" summary="added couple things">
+-       <created>1605634961995</created>
+-@@ -96,7 +97,14 @@
+-       <option name="project" value="LOCAL" />
+-       <updated>1605635649286</updated>
+-     </task>
+--    <option name="localTasksCounter" value="4" />
+-+    <task id="LOCAL-00004" summary="äh">
+-+      <created>1605635834057</created>
+-+      <option name="number" value="00004" />
+-+      <option name="presentableId" value="LOCAL-00004" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1605635834057</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="5" />
+-     <servers />
+-   </component>
+-   <component name="TypeScriptGeneratedFilesManager">
+-@@ -154,10 +162,10 @@
+-       <screen x="0" y="0" width="1536" height="824" />
+-     </state>
+-     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605635821989" />
+--    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605635671275">
+-+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605635841243">
+-       <screen x="0" y="0" width="1536" height="824" />
+-     </state>
+--    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605635671275" />
+-+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605635841243" />
+-     <state x="640" y="257" key="cloudConfig.SelfSettingsDialog" timestamp="1605635048003">
+-       <screen x="0" y="0" width="1536" height="824" />
+-     </state>
+Index: .idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml
+===================================================================
+--- .idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml	(revision 75d88f6983615417062247f0a92cf8bd51277eeb)
++++ .idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml	(revision 75d88f6983615417062247f0a92cf8bd51277eeb)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_rebase_[Default_Changelist]" date="1605722236802" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before rebase [Default Changelist]" />
+-</changelist>
+\ No newline at end of file
+Index: src/supercrafter333/werbung/werbung.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?php\r\n\r\nnamespace supercrafter333\\werbung;\r\n\r\nuse DateInterval;\r\nuse DateTime;\r\nuse pocketmine\\command\\Command;\r\nuse pocketmine\\command\\CommandSender;\r\nuse pocketmine\\event\\Listener;\r\nuse pocketmine\\level\\sound\\AnvilFallSound;\r\nuse pocketmine\\level\\sound\\GhastSound;\r\nuse pocketmine\\Player;\r\nuse pocketmine\\plugin\\PluginBase;\r\nuse pocketmine\\utils\\Config;\r\nuse onebone\\economyapi\\EconomyAPI;\r\n\r\nclass werbung extends PluginBase implements Listener\r\n{\r\n\r\n    public function onEnable()\r\n    {\r\n        $this->getConfig();\r\n        @mkdir($this->getDataFolder());\r\n        $config = new Config($this->getDataFolder().\"config.yml\", Config::YAML);\r\n        $this->saveResource(\"config.yml\");\r\n        if ($config->get(\"pay-money-to-publish\") == \"true\") {\r\n            $economyapi = $this->getServer()->getPluginManager()->getPlugin(\"EconomyAPI\");\r\n            if ($economyapi == null) {\r\n                $this->getServer()->getPluginManager()->disablePlugin($this);\r\n            }\r\n        }\r\n    }\r\n\r\n    public function onCommand(CommandSender $s, Command $cmd, string $label, array $args): bool\r\n    {\r\n        $config = new Config($this->getDataFolder() . \"config.yml\", Config::YAML);\r\n        if ($cmd->getName() == \"werbung\") {\r\n            if ($s instanceof Player) {\r\n                if (count($args) >= 1) {\r\n                    if ($s->hasPermission(\"werbung-pmmp.adversiting.cmd\")) {\r\n                        $this->getConfig();\r\n                        $cd = new Config($this->getDataFolder() . \"cooldown.yml\", Config::YAML);\r\n                        if (!$cd->exists($s->getName())) {\r\n                            $cd->set($s->getName(), date('Y-m-d H:i:s'));\r\n                            $cd->save();\r\n                        }\r\n                        $eco = EconomyAPI::getInstance();\r\n                        $mymoney = $eco->myMoney($s->getName());\r\n                        $last = new DateTime($cd->get($s->getName()));\r\n                        if (new DateTime(\"now\") > $last) {\r\n                            if ($config->get(\"pay-money-to-publish\") == \"true\") {\r\n                                $betrag = $config->get(\"money\");\r\n                                if ($betrag > $mymoney) {\r\n                                    $s->sendMessage($config->get(\"not-enought-money-message\"));\r\n                                } else {\r\n                                    $eco->reduceMoney($s->getName(), $betrag);\r\n                                    $this->getServer()->broadcastMessage(\" \");\r\n                                    $this->getServer()->broadcastMessage(str_replace([\"{player}\"], [$s->getName()], $config->get(\"werbung-text\")));\r\n                                    $this->getServer()->broadcastMessage(implode(\" \", $args));\r\n                                    $this->getServer()->broadcastMessage($config->get(\"werbung-text\"));\r\n                                    $this->getServer()->broadcastMessage(\" \");\r\n                                    $date = new DateTime('+' . $config->get(\"cooldown-minutes\") . ' minutes');\r\n                                    $cd->set($s->getName(), $date->format(\"Y-m-d H:i:s\"));\r\n                                    $cd->save();\r\n                                    foreach ($this->getServer()->getOnlinePlayers() as $onlinePlayer) {\r\n                                        $onlinePlayer->getLevel()->addSound(new GhastSound($onlinePlayer));\r\n                                        return true;\r\n                                    }\r\n                                }\r\n                            } else {\r\n                                $this->getServer()->broadcastMessage(\" \");\r\n                                $this->getServer()->broadcastMessage(str_replace([\"{player}\"], [$s->getName()], $config->get(\"werbung-text\")));\r\n                                $this->getServer()->broadcastMessage(implode(\" \", $args));\r\n                                $this->getServer()->broadcastMessage($config->get(\"werbung-text\"));\r\n                                $this->getServer()->broadcastMessage(\" \");\r\n                                $date = new DateTime('+' . $config->get(\"cooldown-minutes\") . ' minutes');\r\n                                $cd->set($s->getName(), $date->format(\"Y-m-d H:i:s\"));\r\n                                $cd->save();\r\n                                foreach ($this->getServer()->getOnlinePlayers() as $onlinePlayer) {\r\n                                    $onlinePlayer->getLevel()->addSound(new GhastSound($onlinePlayer));\r\n                                    return true;\r\n                                }\r\n                            }\r\n                        } else {\r\n                            $s->sendMessage(str_replace([\"{player}\"], [$s->getName()], $config->get(\"wait-message\")));\r\n                            $s->getLevel()->addSound(new AnvilFallSound($s));\r\n                            return true;\r\n                        }\r\n                    } else {\r\n                        $s->sendMessage(str_replace([\"{player}\"], [$s->getName()], $config->get(\"noperm-message\")));\r\n                        $s->getLevel()->addSound(new AnvilFallSound($s));\r\n                        return true;\r\n                    }\r\n                } else {\r\n                    $s->sendMessage(str_replace([\"{player}\"], [$s->getName()], $config->get(\"no-arguments-message\")));\r\n                    $s->getLevel()->addSound(new AnvilFallSound($s));\r\n                    return true;\r\n                }\r\n            }\r\n            $s->sendMessage($config->get(\"only-In-Game-message\"));\r\n            return true;\r\n        }\r\n        return true;\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/supercrafter333/werbung/werbung.php	(revision 75d88f6983615417062247f0a92cf8bd51277eeb)
++++ src/supercrafter333/werbung/werbung.php	(date 1606321133610)
+@@ -12,7 +12,6 @@
+ use pocketmine\Player;
+ use pocketmine\plugin\PluginBase;
+ use pocketmine\utils\Config;
+-use onebone\economyapi\EconomyAPI;
+ 
+ class werbung extends PluginBase implements Listener
+ {
+@@ -23,12 +22,6 @@
+         @mkdir($this->getDataFolder());
+         $config = new Config($this->getDataFolder()."config.yml", Config::YAML);
+         $this->saveResource("config.yml");
+-        if ($config->get("pay-money-to-publish") == "true") {
+-            $economyapi = $this->getServer()->getPluginManager()->getPlugin("EconomyAPI");
+-            if ($economyapi == null) {
+-                $this->getServer()->getPluginManager()->disablePlugin($this);
+-            }
+-        }
+     }
+ 
+     public function onCommand(CommandSender $s, Command $cmd, string $label, array $args): bool
+@@ -44,42 +37,19 @@
+                             $cd->set($s->getName(), date('Y-m-d H:i:s'));
+                             $cd->save();
+                         }
+-                        $eco = EconomyAPI::getInstance();
+-                        $mymoney = $eco->myMoney($s->getName());
+                         $last = new DateTime($cd->get($s->getName()));
+                         if (new DateTime("now") > $last) {
+-                            if ($config->get("pay-money-to-publish") == "true") {
+-                                $betrag = $config->get("money");
+-                                if ($betrag > $mymoney) {
+-                                    $s->sendMessage($config->get("not-enought-money-message"));
+-                                } else {
+-                                    $eco->reduceMoney($s->getName(), $betrag);
+-                                    $this->getServer()->broadcastMessage(" ");
+-                                    $this->getServer()->broadcastMessage(str_replace(["{player}"], [$s->getName()], $config->get("werbung-text")));
+-                                    $this->getServer()->broadcastMessage(implode(" ", $args));
+-                                    $this->getServer()->broadcastMessage($config->get("werbung-text"));
+-                                    $this->getServer()->broadcastMessage(" ");
+-                                    $date = new DateTime('+' . $config->get("cooldown-minutes") . ' minutes');
+-                                    $cd->set($s->getName(), $date->format("Y-m-d H:i:s"));
+-                                    $cd->save();
+-                                    foreach ($this->getServer()->getOnlinePlayers() as $onlinePlayer) {
+-                                        $onlinePlayer->getLevel()->addSound(new GhastSound($onlinePlayer));
+-                                        return true;
+-                                    }
+-                                }
+-                            } else {
+-                                $this->getServer()->broadcastMessage(" ");
+-                                $this->getServer()->broadcastMessage(str_replace(["{player}"], [$s->getName()], $config->get("werbung-text")));
+-                                $this->getServer()->broadcastMessage(implode(" ", $args));
+-                                $this->getServer()->broadcastMessage($config->get("werbung-text"));
+-                                $this->getServer()->broadcastMessage(" ");
+-                                $date = new DateTime('+' . $config->get("cooldown-minutes") . ' minutes');
+-                                $cd->set($s->getName(), $date->format("Y-m-d H:i:s"));
+-                                $cd->save();
+-                                foreach ($this->getServer()->getOnlinePlayers() as $onlinePlayer) {
+-                                    $onlinePlayer->getLevel()->addSound(new GhastSound($onlinePlayer));
+-                                    return true;
+-                                }
++                            $this->getServer()->broadcastMessage(" ");
++                            $this->getServer()->broadcastMessage(str_replace(["{player}"], [$s->getName()], $config->get("werbung-text")));
++                            $this->getServer()->broadcastMessage(implode(" ", $args));
++                            $this->getServer()->broadcastMessage($config->get("werbung-text"));
++                            $this->getServer()->broadcastMessage(" ");
++                            $date = new DateTime('+'.$config->get("cooldown-minutes").' minutes');
++                            $cd->set($s->getName(), $date->format("Y-m-d H:i:s"));
++                            $cd->save();
++                            foreach ($this->getServer()->getOnlinePlayers() as $onlinePlayer) {
++                                $onlinePlayer->getLevel()->addSound(new GhastSound($onlinePlayer));
++                                return true;
+                             }
+                         } else {
+                             $s->sendMessage(str_replace(["{player}"], [$s->getName()], $config->get("wait-message")));
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"BRANCH:dev\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </select>\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8180f4a1-e0a9-4c84-9973-0daad8bb000f\" name=\"Default Changelist\" comment=\"added couple things xD\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/php.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/php.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/README.md\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/README.md\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/plugin.yml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/plugin.yml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/resources/config.yml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/resources/config.yml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/supercrafter333/werbung/werbung.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/supercrafter333/werbung/werbung.php\" afterDir=\"false\" />\r\n    </list>\r\n    <list id=\"4b4fba92-1691-47f5-972e-454b5e94d3c7\" name=\"Revert &quot;added couple things&quot;\" comment=\"Revert &quot;added couple things&quot;\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\r\n      <list>\r\n        <option value=\"supercrafter333 &lt;53967726+supercrafter333@users.noreply.github.com&gt;\" />\r\n      </list>\r\n    </option>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GithubDefaultAccount\">\r\n    <option name=\"defaultAccountId\" value=\"2e508f06-5925-44cd-9ed0-902efc58cd33\" />\r\n  </component>\r\n  <component name=\"PhpWorkspaceProjectConfiguration\">\r\n    <include_path>\r\n      <path value=\"$PROJECT_DIR$/../../Downloads/EconomyAPI/src\" />\r\n    </include_path>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1kQXlpAeTgXIk1xWnxJokd4axeO\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/../../Downloads/EconomyAPI/src\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration>C:\\Users\\crwgd\\AppData\\Roaming\\Subversion</configuration>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8180f4a1-e0a9-4c84-9973-0daad8bb000f\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1605633943610</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1605633943610</updated>\r\n      <workItem from=\"1605633944921\" duration=\"66000\" />\r\n      <workItem from=\"1605635592656\" duration=\"282000\" />\r\n      <workItem from=\"1605695453785\" duration=\"537000\" />\r\n      <workItem from=\"1605722224995\" duration=\"234000\" />\r\n      <workItem from=\"1605813694698\" duration=\"680000\" />\r\n      <workItem from=\"1606319447745\" duration=\"1473000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"added couple things\">\r\n      <created>1605634961995</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605634961995</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"added couple things xD\">\r\n      <created>1605635445456</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605635445456</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"äh\">\r\n      <created>1605635649286</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605635649286</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"äh\">\r\n      <created>1605635834057</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605635834057</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"dev\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <confirmMoveToFailedCommit value=\"2\" />\r\n    <MESSAGE value=\"added couple things\" />\r\n    <MESSAGE value=\"added couple things xD\" />\r\n    <MESSAGE value=\"äh\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"äh\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"474\" y=\"236\" key=\"#Notifications\" timestamp=\"1605635812683\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"474\" y=\"236\" key=\"#Notifications/0.0.1536.824@0.0.1536.824\" timestamp=\"1605635812683\" />\r\n    <state x=\"475\" y=\"55\" key=\"#PHP\" timestamp=\"1606319910720\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"475\" y=\"55\" key=\"#PHP/0.0.1536.824@0.0.1536.824\" timestamp=\"1606319910720\" />\r\n    <state x=\"363\" y=\"0\" key=\"CommitChangelistDialog2\" timestamp=\"1605634903316\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"363\" y=\"0\" key=\"CommitChangelistDialog2/0.0.1536.824@0.0.1536.824\" timestamp=\"1605634903316\" />\r\n    <state x=\"548\" y=\"167\" key=\"FileChooserDialogImpl\" timestamp=\"1606319908170\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"548\" y=\"167\" key=\"FileChooserDialogImpl/0.0.1536.824@0.0.1536.824\" timestamp=\"1606319908170\" />\r\n    <state x=\"147\" y=\"65\" key=\"MergeDialog\" timestamp=\"1605634924445\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"147\" y=\"65\" key=\"MergeDialog/0.0.1536.824@0.0.1536.824\" timestamp=\"1605634924445\" />\r\n    <state x=\"577\" y=\"133\" key=\"RollbackChangesDialog\" timestamp=\"1605635416908\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"577\" y=\"133\" key=\"RollbackChangesDialog/0.0.1536.824@0.0.1536.824\" timestamp=\"1605635416908\" />\r\n    <state x=\"277\" y=\"57\" key=\"SettingsEditor\" timestamp=\"1605635821989\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"277\" y=\"57\" key=\"SettingsEditor/0.0.1536.824@0.0.1536.824\" timestamp=\"1605635821989\" />\r\n    <state x=\"93\" y=\"93\" width=\"1350\" height=\"638\" key=\"ShowDiffWithBranchDialog\" timestamp=\"1605722454780\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"93\" y=\"93\" width=\"1350\" height=\"638\" key=\"ShowDiffWithBranchDialog/0.0.1536.824@0.0.1536.824\" timestamp=\"1605722454780\" />\r\n    <state x=\"361\" y=\"145\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1605722302411\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"361\" y=\"145\" key=\"Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824\" timestamp=\"1605722302411\" />\r\n    <state x=\"640\" y=\"257\" key=\"cloudConfig.SelfSettingsDialog\" timestamp=\"1605635048003\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"640\" y=\"257\" key=\"cloudConfig.SelfSettingsDialog/0.0.1536.824@0.0.1536.824\" timestamp=\"1605635048003\" />\r\n    <state x=\"586\" y=\"326\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1606319464953\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"586\" y=\"326\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824\" timestamp=\"1606319464953\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 75d88f6983615417062247f0a92cf8bd51277eeb)
++++ .idea/workspace.xml	(date 1606321263106)
+@@ -26,7 +26,12 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="8180f4a1-e0a9-4c84-9973-0daad8bb000f" name="Default Changelist" comment="added couple things xD">
+-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]2/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_1.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_2.xml" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/plugin.yml" afterDir="false" />
+@@ -57,11 +62,6 @@
+   </component>
+   <component name="GithubDefaultAccount">
+     <option name="defaultAccountId" value="2e508f06-5925-44cd-9ed0-902efc58cd33" />
+-  </component>
+-  <component name="PhpWorkspaceProjectConfiguration">
+-    <include_path>
+-      <path value="$PROJECT_DIR$/../../Downloads/EconomyAPI/src" />
+-    </include_path>
+   </component>
+   <component name="ProjectId" id="1kQXlpAeTgXIk1xWnxJokd4axeO" />
+   <component name="ProjectViewState">
+@@ -71,7 +71,6 @@
+   <component name="PropertiesComponent">
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Downloads/EconomyAPI/src" />
+     <property name="nodejs_package_manager_path" value="npm" />
+     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+     <property name="vue.rearranger.settings.migration" value="true" />
+@@ -88,11 +87,7 @@
+       <option name="presentableId" value="Default" />
+       <updated>1605633943610</updated>
+       <workItem from="1605633944921" duration="66000" />
+-      <workItem from="1605635592656" duration="282000" />
+-      <workItem from="1605695453785" duration="537000" />
+-      <workItem from="1605722224995" duration="234000" />
+-      <workItem from="1605813694698" duration="680000" />
+-      <workItem from="1606319447745" duration="1473000" />
++      <workItem from="1605635592656" duration="230000" />
+     </task>
+     <task id="LOCAL-00001" summary="added couple things">
+       <created>1605634961995</created>
+@@ -115,14 +110,7 @@
+       <option name="project" value="LOCAL" />
+       <updated>1605635649286</updated>
+     </task>
+-    <task id="LOCAL-00004" summary="äh">
+-      <created>1605635834057</created>
+-      <option name="number" value="00004" />
+-      <option name="presentableId" value="LOCAL-00004" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1605635834057</updated>
+-    </task>
+-    <option name="localTasksCounter" value="5" />
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -157,25 +145,18 @@
+     <MESSAGE value="added couple things" />
+     <MESSAGE value="added couple things xD" />
+     <MESSAGE value="äh" />
+-    <option name="LAST_COMMIT_MESSAGE" value="äh" />
++    <MESSAGE value="add EconomyAPI support&#10;&#10;- version bump&#10;- edited config.yml&#10;- added support for EconomyAPI&#10;- Edited description&#10;- some other thinks&#10;Info: this is a dev version it can have bugs, please say it to me when you find a bug" />
++    <option name="LAST_COMMIT_MESSAGE" value="add EconomyAPI support&#10;&#10;- version bump&#10;- edited config.yml&#10;- added support for EconomyAPI&#10;- Edited description&#10;- some other thinks&#10;Info: this is a dev version it can have bugs, please say it to me when you find a bug" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="474" y="236" key="#Notifications" timestamp="1605635812683">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+     <state x="474" y="236" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1605635812683" />
+-    <state x="475" y="55" key="#PHP" timestamp="1606319910720">
+-      <screen x="0" y="0" width="1536" height="824" />
+-    </state>
+-    <state x="475" y="55" key="#PHP/0.0.1536.824@0.0.1536.824" timestamp="1606319910720" />
+     <state x="363" y="0" key="CommitChangelistDialog2" timestamp="1605634903316">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+     <state x="363" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605634903316" />
+-    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1606319908170">
+-      <screen x="0" y="0" width="1536" height="824" />
+-    </state>
+-    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606319908170" />
+     <state x="147" y="65" key="MergeDialog" timestamp="1605634924445">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+@@ -188,21 +169,13 @@
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605635821989" />
+-    <state x="93" y="93" width="1350" height="638" key="ShowDiffWithBranchDialog" timestamp="1605722454780">
++    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605635671275">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+-    <state x="93" y="93" width="1350" height="638" key="ShowDiffWithBranchDialog/0.0.1536.824@0.0.1536.824" timestamp="1605722454780" />
+-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605722302411">
+-      <screen x="0" y="0" width="1536" height="824" />
+-    </state>
+-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605722302411" />
++    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605635671275" />
+     <state x="640" y="257" key="cloudConfig.SelfSettingsDialog" timestamp="1605635048003">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+     <state x="640" y="257" key="cloudConfig.SelfSettingsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605635048003" />
+-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606319464953">
+-      <screen x="0" y="0" width="1536" height="824" />
+-    </state>
+-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1606319464953" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: resources/config.yml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>cooldown-minutes: \"10\"\r\n\r\n#messages\r\n#use {player} to get the playername\r\nwerbung-text: \"§l├------------------------§b»§cADVERTISING§b§f«------------------------┤\"\r\nwait-message: \"§l§cYou must wait! This command is on cooldown!\"\r\nnoperm-message: \"§cYou are not allowed to do that!\"\r\nno-arguments-message: \"§cYou have forget the text!\"\r\nonly-In-Game-message: \"Only In-Game!\"\r\n#messages for EconomyAPI features\r\nnot-enought-money-message: \"§cYou don't have enought money to publish an ad!\"\r\n\r\n#other configurations\r\n\r\n#EconomyAPI features\r\n#here you can set if a player must pay money to publish an ad\r\n#set false to true, then a player must pay money when he will publish an ad\r\npay-money-to-publish: \"false\"\r\n#here you con set how many money the player must pay to publish an ad\r\nmoney: \"50\"\r\n\r\n#don't change this\r\nversion: 1.5
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- resources/config.yml	(revision 75d88f6983615417062247f0a92cf8bd51277eeb)
++++ resources/config.yml	(date 1606321133608)
+@@ -6,18 +6,4 @@
+ wait-message: "§l§cYou must wait! This command is on cooldown!"
+ noperm-message: "§cYou are not allowed to do that!"
+ no-arguments-message: "§cYou have forget the text!"
+-only-In-Game-message: "Only In-Game!"
+-#messages for EconomyAPI features
+-not-enought-money-message: "§cYou don't have enought money to publish an ad!"
+-
+-#other configurations
+-
+-#EconomyAPI features
+-#here you can set if a player must pay money to publish an ad
+-#set false to true, then a player must pay money when he will publish an ad
+-pay-money-to-publish: "false"
+-#here you con set how many money the player must pay to publish an ad
+-money: "50"
+-
+-#don't change this
+-version: 1.5
+\ No newline at end of file
++only-In-Game-message: "Only In-Game!"
+\ No newline at end of file
+Index: plugin.yml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>name: Werbung-PMMP\r\nversion: 1.5.0-dev\r\napi: 3.0.0\r\nmain: supercrafter333\\werbung\\werbung\r\nauthor: supercrafter333\r\n\r\ncommands:\r\n  werbung:\r\n    description: §r§aPromote your shop!\r\n    permission: werbung-pmmp.adversiting.cmd\r\n    usage: \"/advertising <text>\"\r\n    aliases: [\"advertising\"]\r\n\r\npermissions:\r\n  werbung-pmmp.adversiting.cmd:\r\n    default: true\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- plugin.yml	(revision 75d88f6983615417062247f0a92cf8bd51277eeb)
++++ plugin.yml	(date 1606321133606)
+@@ -1,5 +1,5 @@
+ name: Werbung-PMMP
+-version: 1.5.0-dev
++version: 1.4.0
+ api: 3.0.0
+ main: supercrafter333\werbung\werbung
+ author: supercrafter333
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\r\n# Werbung-PMMP  [![](https://poggit.pmmp.io/shield.state/Werbung-PMMP)](https://poggit.pmmp.io/p/Werbung-PMMP)\r\nThis is a plugin with which you can advertise or your players can advertise your shop, plot or other things on your server. Have fun with this plugin. A player can use `/advertising <text>` to advertise his shop or other things. The messages and the cooldown minutes can be set in the config.yml.\r\n\r\nPoggit: <a href=\"https://poggit.pmmp.io/p/Werbung-PMMP\">Werbung-PMMP</a>\r\n\r\n\r\nThis Plugin is licensed by [Apache License 2.0](/LICENSE)!\r\n\r\n\r\n**Commands+Permissions:**\r\n`/advertising <text>  |  werbung-pmmp.adversiting.cmd`\r\n\r\n\r\n### TODOs:\r\nThere's nothing to do!\r\n \r\n ### WIP (work-in-progress)\r\n  - [X] A player must pay money when he publish an ad **[BETA - look at the dev branche]**\r\n\r\n\r\n**German config.yml with german messages - Deutsche config.yml mit deutschen Narichten:** <a href=\"http://www.mediafire.com/file/4b29g4iabytmxxy/file\">German-Config</a>\r\n\r\n\r\n### Pictures\r\n<img src=\"https://github.com/supercrafter333/Werbung-PMMP/blob/master/werbung-pmmp-pic.png\"></img> <br>\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- README.md	(revision 75d88f6983615417062247f0a92cf8bd51277eeb)
++++ README.md	(date 1606321191335)
+@@ -13,10 +13,10 @@
+ 
+ 
+ ### TODOs:
+-There's nothing to do!
++ -[ ] A player must pay money when he publish an ad
+  
+  ### WIP (work-in-progress)
+-  - [X] A player must pay money when he publish an ad **[BETA - look at the dev branche]**
++ There's not work in progress! xD
+ 
+ 
+ **German config.yml with german messages - Deutsche config.yml mit deutschen Narichten:** <a href="http://www.mediafire.com/file/4b29g4iabytmxxy/file">German-Config</a>

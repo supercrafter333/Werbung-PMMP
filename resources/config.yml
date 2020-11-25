@@ -7,17 +7,3 @@ wait-message: "§l§cYou must wait! This command is on cooldown!"
 noperm-message: "§cYou are not allowed to do that!"
 no-arguments-message: "§cYou have forget the text!"
 only-In-Game-message: "Only In-Game!"
-#messages for EconomyAPI features
-not-enought-money-message: "§cYou don't have enought money to publish an ad!"
-
-#other configurations
-
-#EconomyAPI features
-#here you can set if a player must pay money to publish an ad
-#set false to true, then a player must pay money when he will publish an ad
-pay-money-to-publish: "false"
-#here you con set how many money the player must pay to publish an ad
-money: "50"
-
-#don't change this
-version: 1.5

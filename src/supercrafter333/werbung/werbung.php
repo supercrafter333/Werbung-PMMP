@@ -22,6 +22,12 @@ class werbung extends PluginBase implements Listener
         $this->getConfig();
         @mkdir($this->getDataFolder());
         $config = new Config($this->getDataFolder()."config.yml", Config::YAML);
+        if ($config->exists("version") && $config->get("version") == "1.5-dev") {
+            return;
+        } else {
+            $this->getLogger()->error("Your configuration file [config.yml] is outdated! Please delete the file and restart your server to update the configuration file!");
+            $this->getServer()->getPluginManager()->disablePlugin($this);
+        }
         $this->saveResource("config.yml");
         if ($config->get("pay-money-to-publish") == "true") {
             $economyapi = $this->getServer()->getPluginManager()->getPlugin("EconomyAPI");

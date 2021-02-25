@@ -22,7 +22,7 @@ class werbung extends PluginBase implements Listener
         $this->getConfig();
         @mkdir($this->getDataFolder());
         $config = new Config($this->getDataFolder()."config.yml", Config::YAML);
-        if ($config->exists("version") && $config->get("version") == "1.5-dev") {
+        if ($config->exists("version") && $config->get("version") == "1.5.0") {
             return;
         } else {
             $this->getLogger()->error("Your configuration file [config.yml] is outdated! Please delete the file and restart your server to update the configuration file!");
@@ -56,14 +56,29 @@ class werbung extends PluginBase implements Listener
                         if (new DateTime("now") > $last) {
                             if ($config->get("pay-money-to-publish") == "true") {
                                 $betrag = $config->get("money");
-                                if ($betrag > $mymoney) {
-                                    $s->sendMessage($config->get("not-enought-money-message"));
+                                if (!$s->hasPermission("werbung-pmmp.advertising.nopay")) {
+                                    if ($betrag > $mymoney) {
+                                        $s->sendMessage($config->get("not-enought-money-message"));
+                                    } else {
+                                        $eco->reduceMoney($s->getName(), $betrag);
+                                        $this->getServer()->broadcastMessage(" ");
+                                        $this->getServer()->broadcastMessage(str_replace(["{player}"], [$s->getName()], $config->get("werbung-text")));
+                                        $this->getServer()->broadcastMessage(implode(" ", $args));
+                                        $this->getServer()->broadcastMessage(str_replace(["{player}"], [$s->getName()], $config->get("werbung-text")));
+                                        $this->getServer()->broadcastMessage(" ");
+                                        $date = new DateTime('+' . $config->get("cooldown-minutes") . ' minutes');
+                                        $cd->set($s->getName(), $date->format("Y-m-d H:i:s"));
+                                        $cd->save();
+                                        foreach ($this->getServer()->getOnlinePlayers() as $onlinePlayer) {
+                                            $onlinePlayer->getLevel()->addSound(new GhastSound($onlinePlayer));
+                                            return true;
+                                        }
+                                    }
                                 } else {
-                                    $eco->reduceMoney($s->getName(), $betrag);
                                     $this->getServer()->broadcastMessage(" ");
                                     $this->getServer()->broadcastMessage(str_replace(["{player}"], [$s->getName()], $config->get("werbung-text")));
                                     $this->getServer()->broadcastMessage(implode(" ", $args));
-                                    $this->getServer()->broadcastMessage($config->get("werbung-text"));
+                                    $this->getServer()->broadcastMessage(str_replace(["{player}"], [$s->getName()], $config->get("werbung-text")));
                                     $this->getServer()->broadcastMessage(" ");
                                     $date = new DateTime('+' . $config->get("cooldown-minutes") . ' minutes');
                                     $cd->set($s->getName(), $date->format("Y-m-d H:i:s"));
@@ -77,7 +92,7 @@ class werbung extends PluginBase implements Listener
                                 $this->getServer()->broadcastMessage(" ");
                                 $this->getServer()->broadcastMessage(str_replace(["{player}"], [$s->getName()], $config->get("werbung-text")));
                                 $this->getServer()->broadcastMessage(implode(" ", $args));
-                                $this->getServer()->broadcastMessage($config->get("werbung-text"));
+                                $this->getServer()->broadcastMessage(str_replace(["{player}"], [$s->getName()], $config->get("werbung-text")));
                                 $this->getServer()->broadcastMessage(" ");
                                 $date = new DateTime('+' . $config->get("cooldown-minutes") . ' minutes');
                                 $cd->set($s->getName(), $date->format("Y-m-d H:i:s"));

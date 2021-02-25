@@ -25,9 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8180f4a1-e0a9-4c84-9973-0daad8bb000f" name="Default Changelist" comment="remove unused uses">
+    <list default="true" id="8180f4a1-e0a9-4c84-9973-0daad8bb000f" name="Default Changelist" comment="Update .poggit.yml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.poggit.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.poggit.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <list id="4b4fba92-1691-47f5-972e-454b5e94d3c7" name="Revert &quot;added couple things&quot;" comment="Revert &quot;added couple things&quot;" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +99,7 @@
       <workItem from="1606319447745" duration="1473000" />
       <workItem from="1614279290252" duration="158000" />
       <workItem from="1614279469980" duration="182000" />
-      <workItem from="1614279672574" duration="204000" />
+      <workItem from="1614279672574" duration="406000" />
     </task>
     <task id="LOCAL-00001" summary="added couple things">
       <created>1605634961995</created>
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614279848823</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update .poggit.yml">
+      <created>1614279892659</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1614279892659</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +196,7 @@
     <MESSAGE value="ups" />
     <MESSAGE value="Bug fixes, final V1.5.0" />
     <MESSAGE value="remove unused uses" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove unused uses" />
+    <MESSAGE value="Update .poggit.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update .poggit.yml" />
   </component>
 </project>

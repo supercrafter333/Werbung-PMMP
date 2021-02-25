@@ -25,9 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8180f4a1-e0a9-4c84-9973-0daad8bb000f" name="Default Changelist" comment="Update .poggit.yml">
+    <list default="true" id="8180f4a1-e0a9-4c84-9973-0daad8bb000f" name="Default Changelist" comment="Update README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/plugin.yml" afterDir="false" />
     </list>
     <list id="4b4fba92-1691-47f5-972e-454b5e94d3c7" name="Revert &quot;added couple things&quot;" comment="Revert &quot;added couple things&quot;" />
     <option name="SHOW_DIALOG" value="false" />

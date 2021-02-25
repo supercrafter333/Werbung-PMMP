@@ -14,7 +14,9 @@ This Plugin is licensed by [Apache License 2.0](/LICENSE)!
 **Permissions:**
 
 `werbung-pmmp.advertising.bypass` - Bypass permission [Default: op]
+
 `werbung-pmmp.advertising.cmd` - Command permission [Default: true]
+
 `werbung-pmmp.advertising.nopay` - If EconomyAPI Support is activated, players with this permission don't pay money [Default: op]
 
 

@@ -2,6 +2,7 @@
 build-by-default: true
 branches:
 - master
+- dev
 projects:
   Werbung-PMMP:
     path: ""

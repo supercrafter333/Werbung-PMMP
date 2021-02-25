@@ -20,15 +20,14 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:dev" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8180f4a1-e0a9-4c84-9973-0daad8bb000f" name="Default Changelist" comment="added couple things xD">
+    <list default="true" id="8180f4a1-e0a9-4c84-9973-0daad8bb000f" name="Default Changelist" comment="Update .poggit.yml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.poggit.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.poggit.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/supercrafter333/werbung/werbung.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/supercrafter333/werbung/werbung.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <list id="4b4fba92-1691-47f5-972e-454b5e94d3c7" name="Revert &quot;added couple things&quot;" comment="Revert &quot;added couple things&quot;" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,14 +46,26 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="KEEP" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="2e508f06-5925-44cd-9ed0-902efc58cd33" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../Downloads/EconomyAPI/src" />
+    </include_path>
   </component>
   <component name="ProjectId" id="1kQXlpAeTgXIk1xWnxJokd4axeO" />
   <component name="ProjectViewState">
@@ -63,11 +74,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PlotUI" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -82,8 +92,14 @@
       <option name="presentableId" value="Default" />
       <updated>1605633943610</updated>
       <workItem from="1605633944921" duration="66000" />
-      <workItem from="1605635592656" duration="230000" />
-      <workItem from="1614278820384" duration="62000" />
+      <workItem from="1605635592656" duration="282000" />
+      <workItem from="1605695453785" duration="537000" />
+      <workItem from="1605722224995" duration="234000" />
+      <workItem from="1605813694698" duration="680000" />
+      <workItem from="1606319447745" duration="1473000" />
+      <workItem from="1614279290252" duration="158000" />
+      <workItem from="1614279469980" duration="182000" />
+      <workItem from="1614279672574" duration="406000" />
     </task>
     <task id="LOCAL-00001" summary="added couple things">
       <created>1605634961995</created>
@@ -106,7 +122,42 @@
       <option name="project" value="LOCAL" />
       <updated>1605635649286</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="äh">
+      <created>1605635834057</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605635834057</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ups">
+      <created>1606322751821</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606322751821</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Bug fixes, final V1.5.0">
+      <created>1614279827058</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614279827058</updated>
+    </task>
+    <task id="LOCAL-00007" summary="remove unused uses">
+      <created>1614279848823</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614279848823</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update .poggit.yml">
+      <created>1614279892659</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1614279892659</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +174,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="dev" />
                       </list>
                     </value>
                   </entry>
@@ -141,6 +192,11 @@
     <MESSAGE value="added couple things" />
     <MESSAGE value="added couple things xD" />
     <MESSAGE value="äh" />
-    <option name="LAST_COMMIT_MESSAGE" value="äh" />
+    <MESSAGE value="lol" />
+    <MESSAGE value="ups" />
+    <MESSAGE value="Bug fixes, final V1.5.0" />
+    <MESSAGE value="remove unused uses" />
+    <MESSAGE value="Update .poggit.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update .poggit.yml" />
   </component>
 </project>

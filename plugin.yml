@@ -1,5 +1,5 @@
 name: Werbung-PMMP
-version: 1.4.0
+version: 1.5.0
 api: 3.0.0
 main: supercrafter333\werbung\werbung
 author: supercrafter333
@@ -12,5 +12,10 @@ commands:
     aliases: ["advertising"]
 
 permissions:
-  werbung-pmmp.adversiting.cmd:
-    default: true
+  werbung-pmmp.advertising.bypass:
+    default: op
+    children:
+      werbung-pmmp.adversiting.cmd:
+        default: true
+      werbung-pmmp.advertising.nopay:
+        default: op

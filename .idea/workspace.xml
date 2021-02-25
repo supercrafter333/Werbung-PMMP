@@ -25,20 +25,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8180f4a1-e0a9-4c84-9973-0daad8bb000f" name="Default Changelist" comment="Bug fix">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_25_11_2020_17_24_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_25_11_2020_17_24__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]2/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Revert__added_couple_things__.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Revert__added_couple_things__.xml" afterDir="false" />
+    <list default="true" id="8180f4a1-e0a9-4c84-9973-0daad8bb000f" name="Default Changelist" comment="Bug fixes, final V1.5.0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/supercrafter333/werbung/werbung.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/supercrafter333/werbung/werbung.php" afterDir="false" />
     </list>
     <list id="4b4fba92-1691-47f5-972e-454b5e94d3c7" name="Revert &quot;added couple things&quot;" comment="Revert &quot;added couple things&quot;" />
@@ -111,7 +99,7 @@
       <workItem from="1606319447745" duration="1473000" />
       <workItem from="1614279290252" duration="158000" />
       <workItem from="1614279469980" duration="182000" />
-      <workItem from="1614279672574" duration="121000" />
+      <workItem from="1614279672574" duration="163000" />
     </task>
     <task id="LOCAL-00001" summary="added couple things">
       <created>1605634961995</created>
@@ -148,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606322751821</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Bug fixes, final V1.5.0">
+      <created>1614279827058</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614279827058</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +180,7 @@
     <MESSAGE value="äh" />
     <MESSAGE value="lol" />
     <MESSAGE value="ups" />
-    <option name="LAST_COMMIT_MESSAGE" value="ups" />
+    <MESSAGE value="Bug fixes, final V1.5.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug fixes, final V1.5.0" />
   </component>
 </project>

@@ -2,7 +2,6 @@
 
 namespace supercrafter333\werbung;
 
-use DateInterval;
 use DateTime;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;

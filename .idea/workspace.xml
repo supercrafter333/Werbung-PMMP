@@ -27,7 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8180f4a1-e0a9-4c84-9973-0daad8bb000f" name="Default Changelist" comment="Update README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <list id="4b4fba92-1691-47f5-972e-454b5e94d3c7" name="Revert &quot;added couple things&quot;" comment="Revert &quot;added couple things&quot;" />
     <option name="SHOW_DIALOG" value="false" />
@@ -157,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614279892659</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update plugin.yml">
+      <created>1614280270552</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1614280270552</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +204,7 @@
     <MESSAGE value="Bug fixes, final V1.5.0" />
     <MESSAGE value="remove unused uses" />
     <MESSAGE value="Update .poggit.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update .poggit.yml" />
+    <MESSAGE value="Update plugin.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update plugin.yml" />
   </component>
 </project>

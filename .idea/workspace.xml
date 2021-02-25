@@ -26,18 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8180f4a1-e0a9-4c84-9973-0daad8bb000f" name="Default Changelist" comment="added couple things xD">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]2/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.poggit.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.poggit.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/supercrafter333/werbung/werbung.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/supercrafter333/werbung/werbung.php" afterDir="false" />
     </list>
     <list id="4b4fba92-1691-47f5-972e-454b5e94d3c7" name="Revert &quot;added couple things&quot;" comment="Revert &quot;added couple things&quot;" />
@@ -73,7 +63,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -91,6 +83,7 @@
       <updated>1605633943610</updated>
       <workItem from="1605633944921" duration="66000" />
       <workItem from="1605635592656" duration="230000" />
+      <workItem from="1614278820384" duration="62000" />
     </task>
     <task id="LOCAL-00001" summary="added couple things">
       <created>1605634961995</created>
@@ -149,35 +142,5 @@
     <MESSAGE value="added couple things xD" />
     <MESSAGE value="äh" />
     <option name="LAST_COMMIT_MESSAGE" value="äh" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="474" y="236" key="#Notifications" timestamp="1605635812683">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="474" y="236" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1605635812683" />
-    <state x="363" y="0" key="CommitChangelistDialog2" timestamp="1605634903316">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="363" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605634903316" />
-    <state x="147" y="65" key="MergeDialog" timestamp="1605634924445">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="147" y="65" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1605634924445" />
-    <state x="577" y="133" key="RollbackChangesDialog" timestamp="1605635416908">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="577" y="133" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605635416908" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1605635821989">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605635821989" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605635671275">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605635671275" />
-    <state x="640" y="257" key="cloudConfig.SelfSettingsDialog" timestamp="1605635048003">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="640" y="257" key="cloudConfig.SelfSettingsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605635048003" />
   </component>
 </project>

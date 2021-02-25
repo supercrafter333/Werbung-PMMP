@@ -42,7 +42,7 @@ class werbung extends PluginBase implements Listener
                             $this->getServer()->broadcastMessage(" ");
                             $this->getServer()->broadcastMessage(str_replace(["{player}"], [$s->getName()], $config->get("werbung-text")));
                             $this->getServer()->broadcastMessage(implode(" ", $args));
-                            $this->getServer()->broadcastMessage($config->get("werbung-text"));
+                            $this->getServer()->broadcastMessage(str_replace(["{player}"], [$s->getName()], $config->get("werbung-text")));
                             $this->getServer()->broadcastMessage(" ");
                             $date = new DateTime('+'.$config->get("cooldown-minutes").' minutes');
                             $cd->set($s->getName(), $date->format("Y-m-d H:i:s"));

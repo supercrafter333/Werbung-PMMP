@@ -1,16 +1,16 @@
-name: Werbung-PMMP
+name: Announcements
 version: 1.5.0
 api: 3.0.0
-main: supercrafter333\werbung\werbung
-author: supercrafter333
+main: tobypayneyt/announcements/announcements
+author: tobypayneyt (original code by supercrafter333)
 softdepend: EconomyAPI
 
 commands:
   werbung:
-    description: §r§aPromote your shop!
+    description: Announces the specified message!
     permission: werbung-pmmp.adversiting.cmd
-    usage: "/advertising <text>"
-    aliases: ["advertising"]
+    usage: "/announce <text>"
+    aliases: ["announce"]
 
 permissions:
   werbung-pmmp.advertising.bypass:

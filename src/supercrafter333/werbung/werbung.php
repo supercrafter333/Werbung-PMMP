@@ -1,6 +1,6 @@
 <?php
 
-namespace supercrafter333\werbung;
+namespace tobypayneyt/announcements;
 
 use DateTime;
 use pocketmine\command\Command;
@@ -31,6 +31,7 @@ class werbung extends PluginBase implements Listener
         if ($config->get("pay-money-to-publish") == "true") {
             $economyapi = $this->getServer()->getPluginManager()->getPlugin("EconomyAPI");
             if ($economyapi == null) {
+                $this->getLogger()->error("You need EconomyAPI to use this plugin!");
                 $this->getServer()->getPluginManager()->disablePlugin($this);
             }
         }
